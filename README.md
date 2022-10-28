@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Ben's Movie App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+![](https://github.com/rifleben/movieSearch/blob/main/Ben_Movie_gif.gif)
 
 ## Available Scripts
 
