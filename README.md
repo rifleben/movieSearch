@@ -1,4 +1,6 @@
-# Ben's Movie App:
+# Ben's Movie Search:
+
+### A React movie search app that returns movie meta data and images from the OMDB API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
